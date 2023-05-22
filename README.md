@@ -14,7 +14,7 @@ introduction to machine Learning and its applications in medical fields.
   Support Vector Regression
   Decision Tree Regression
   Classification
->
+<
 
 2. Naive Bayes
 3. K-Nearest Neighbors
